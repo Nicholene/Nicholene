@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Personal Software Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Data Structures and Algorithms Practice (LeetCode)</b>
+  - [Praciting DS & Algos in Python](https://leetcode.com/Nicholene/)
  
 <h2>📖 Academic Software Projects:</h2>
 
