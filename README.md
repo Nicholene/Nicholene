@@ -3,7 +3,10 @@
 <h2>👨‍💻 Personal Software Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (LeetCode)</b>
-  - [Praciting DS & Algos in Python](https://leetcode.com/Nicholene/)
+  - [Praciting DS & Algos in Java](https://leetcode.com/Nicholene/)
+
+- <b>Java Backend Application Project</b>
+  - [Restaurant Review API](https://github.com/Nicholene/Dining_Review_API_8/)  
  
 <h2>📖 Academic Software Projects:</h2>
 
