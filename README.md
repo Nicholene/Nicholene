@@ -3,7 +3,7 @@
 <h2>👨‍💻 Personal Software Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (LeetCode)</b>
-  - [Praciting DS & Algos in Java](https://leetcode.com/Nicholene/)
+  - [Practicing DS & Algos in Java](https://leetcode.com/Nicholene/)
 
 - <b>Java Backend Application Project</b>
   - [Diet Detective API Project](https://github.com/Nicholene/Diet_Detective/)  
