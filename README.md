@@ -6,7 +6,7 @@
   - [Praciting DS & Algos in Java](https://leetcode.com/Nicholene/)
 
 - <b>Java Backend Application Project</b>
-  - [Restaurant Review API(allergy-friendly)](https://github.com/Nicholene/Dining_Review_API_8/)  
+  - [Diet Detective API Project)]([https://github.com/Nicholene/Diet_Detective/])  
  
 <h2>📖 Academic Software Projects:</h2>
 
