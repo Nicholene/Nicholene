@@ -6,7 +6,7 @@
   - [Practicing DS & Algos in Java](https://leetcode.com/Nicholene/)
 
 - <b>Java Backend Application Project</b>
-  - [Diet Detective API Project](https://github.com/Nicholene/Diet_Detective/)  
+  - [Diet Detective API](https://github.com/Nicholene/Diet_Detective/)  
  
 <h2>📖 Academic Software Projects:</h2>
 
