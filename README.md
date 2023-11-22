@@ -12,7 +12,7 @@
 
 -  <b>Java AI Predictor & Survey</b>
 
--<b>[C++ Basic Employment Management System](https://github.com/Nicholene/Employee_Management_System_Project)</b>
+-[C++ Basic Employment Management System](https://github.com/Nicholene/Employee_Management_System_Project)
 
 <h2>📺 Popular YouTube Videos</h2>
 
